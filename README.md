@@ -36,13 +36,15 @@ not only reinforce individual vehicle autonomy but also foster a collaborative a
 3.run model:
     ```bash
     python detect3.py --weights last.pt --source "photo_adress"
+    ```
+    ```bash
     python detect3.py --weights last.pt --source 0(for real time detection)
     ```
     
 
 ## radio communication prototype
 both cars use the same circuit 
-reciver car gets the ras_res1.ino code 
+,reciver car gets the ras_res1.ino code 
 and the transmitter car get the ras_trans1.ino code
 
 
