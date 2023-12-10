@@ -43,8 +43,9 @@ not only reinforce individual vehicle autonomy but also foster a collaborative a
     
 
 ## radio communication prototype
-both cars use the same circuit 
-,reciver car gets the ras_res1.ino code 
+both cars use the same circuit ,
+![alt text]([https://github.com/adammaazoun/IEEE_ISIMS_RAS_challenge_2023/blob/f34905511aab673d295cb10b267ee38336b1e3d1/circuit.png])
+reciver car gets the ras_res1.ino code 
 and the transmitter car get the ras_trans1.ino code
 
 
